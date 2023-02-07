@@ -1,6 +1,6 @@
 # Discord_SlashCommandTest
 ## Download
-[https://github.com/Ay2416/Discord_SlashCommandTest/archive/refs/heads/main.zip](https://github.com/Ay2416/Discord_SlashCommandTest/archive/refs/heads/main.zip)
+](https://github.com/Ay2416/Discord_SlashCommandTest/archive/refs/heads/main.zip)
 ## English
 Sorry, I am not very good at English... (DeepL Transrator)
 
