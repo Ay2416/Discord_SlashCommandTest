@@ -28,7 +28,11 @@ discord.js 14.7.1([https://discord.js.org/](https://discord.js.org/))
 ⑤Typing command "node src/index.js".
 
 ### Command List
+・Global Command
+
 /hello→Reply "hi!".
+
+・Guild　Command
 
 /ping→Reply "Pong!".
 
@@ -55,7 +59,11 @@ discord.js 14.7.1([https://discord.js.org/](https://discord.js.org/))
 ②Windowsであればコマンドプロンプト、LinuxやMacであればターミナルを開き、「src」というフォルダが存在するディレクトリーに移動し、「node src/index.js」と打つことで起動させることができます。
 
 ### コマンドリスト
+・グローバルコマンド
+
 /hello→「hi!」と返信します.
+
+・サーバーコマンド
 
 /ping→「Pong!」と返信します。
 
