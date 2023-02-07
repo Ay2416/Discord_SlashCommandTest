@@ -27,6 +27,13 @@ discord.js 14.7.1([https://discord.js.org/](https://discord.js.org/))
 
 ⑤Typing command "node src/index.js".
 
+### Command List
+/hello→Reply "hi!".
+
+/ping→Reply "Pong!".
+
+/auth→Reply "auth start!".
+
 ## Japanese
 これは自分がDiscord.jsでスラッシュコマンドを試すために作ったものです。
 
@@ -46,3 +53,11 @@ discord.js 14.7.1([https://discord.js.org/](https://discord.js.org/))
 ①「.env」ファイルの中にある、「your_discord_bot_token」の部分を自分のtokenに書き換えます。
 
 ②Windowsであればコマンドプロンプト、LinuxやMacであればターミナルを開き、「src」というフォルダが存在するディレクトリーに移動し、「node src/index.js」と打つことで起動させることができます。
+
+### コマンドリスト
+/hello→「hi!」と返信します.
+
+/ping→「Pong!」と返信します。
+
+/auth→「auth start!」と返信します。
+
