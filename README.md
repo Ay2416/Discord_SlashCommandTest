@@ -5,7 +5,7 @@
 Sorry, I am not very good at English... (DeepL Transrator)
 
 This bot try to use Discord.js SlashCommand.
-Given that "npm" and "Node.js" installed.(install Method→((※Japanese site Google translation)[https://qiita-com.translate.goog/taiponrock/items/9001ae194571feb63a5e?_x_tr_sl=en&_x_tr_tl=ja&_x_tr_hl=ja&_x_tr_pto=wapp])
+Given that "npm" and "Node.js" installed.(install Method→[※Japanese site Google translation](https://qiita-com.translate.goog/taiponrock/items/9001ae194571feb63a5e?_x_tr_sl=en&_x_tr_tl=ja&_x_tr_hl=ja&_x_tr_pto=wapp))
 
 ### See sites(Japanese)
 ・[https://qiita.com/yuu_1st/items/aaa6ea92408726a0157e](https://qiita.com/yuu_1st/items/aaa6ea92408726a0157e)
