@@ -23,7 +23,7 @@ discord.js 14.7.1([https://discord.js.org/](https://discord.js.org/))
 
 ③Open command prompt(Windows) or Terminal(Mac, Linux).
 
-④Move "Discord_SlashCommandTest" directory.
+④Move "Discord_SlashCommandTest-main" directory.
 
 ⑤Typing command "node src/index.js".
 
