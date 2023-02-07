@@ -2,7 +2,7 @@
 ## English
 Sorry, I am not very good at English... (DeepL Transrator)
 
-This bot try to use discord.js SlashCommand.
+This bot try to use Discord.js SlashCommand.
 
 ### See sites
 ・[https://qiita.com/yuu_1st/items/aaa6ea92408726a0157e](https://qiita.com/yuu_1st/items/aaa6ea92408726a0157e)
