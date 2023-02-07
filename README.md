@@ -19,7 +19,7 @@ Given that "npm" and "Node.js" installed.(Install Method→[※Japanese site Goo
 ### Enviroment
 npm 8.19.2
 
-Node.js 18.14.0 ([https://nodejs.org/ja/](https://nodejs.org/ja/))
+Node.js 18.14.0 ([https://nodejs.org/en/](https://nodejs.org/en/))
 
 discord.js 14.7.1([https://discord.js.org/](https://discord.js.org/))
 
