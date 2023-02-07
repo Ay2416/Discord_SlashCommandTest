@@ -4,7 +4,7 @@ Sorry, I am not very good at English... (DeepL Transrator)
 
 This bot try to use Discord.js SlashCommand.
 
-### See sites
+### See sites(Japanese)
 ・[https://qiita.com/yuu_1st/items/aaa6ea92408726a0157e](https://qiita.com/yuu_1st/items/aaa6ea92408726a0157e)
 
 ・[https://qiita.com/hitori_yuu/items/3b6c02fac5c610f0615a](https://qiita.com/hitori_yuu/items/3b6c02fac5c610f0615a)
