@@ -2,6 +2,8 @@
 ## English
 Sorry, I am not very good at English... (DeepL Transrator)
 
+This bot try to use discord.js SlashCommand.
+
 ### See sites
 ・[https://qiita.com/yuu_1st/items/aaa6ea92408726a0157e](https://qiita.com/yuu_1st/items/aaa6ea92408726a0157e)
 
@@ -26,6 +28,8 @@ discord.js 14.7.1([https://discord.js.org/](https://discord.js.org/))
 ⑤Typing command "node src/index.js".
 
 ## Japanese
+これは自分がDiscord.jsでスラッシュコマンドを試すために作ったものです。
+
 ### 参考元
 ・[https://qiita.com/yuu_1st/items/aaa6ea92408726a0157e](https://qiita.com/yuu_1st/items/aaa6ea92408726a0157e)
 
