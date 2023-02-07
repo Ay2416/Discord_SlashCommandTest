@@ -3,7 +3,8 @@
 [Click](https://github.com/Ay2416/Discord_SlashCommandTest/archive/refs/heads/main.zip)
 ## English
 Sorry, I am not very good at English... (DeepL Transrator)
-And, source code comment out and message is Japanese.
+
+and, source code comment out and message is Japanese.
 
 This bot try to use Discord.js SlashCommand.
 Given that "npm" and "Node.js" installed.(Install Method→[※Japanese site Google translation](https://qiita-com.translate.goog/taiponrock/items/9001ae194571feb63a5e?_x_tr_sl=ja&_x_tr_tl=en&_x_tr_hl=ja&_x_tr_pto=wapp))
