@@ -1,5 +1,7 @@
 # Discord_SlashCommandTest
 ## English
+Sorry, I am not very good at English... (DeepL Transrator)
+
 ### See sites
 ・[https://qiita.com/yuu_1st/items/aaa6ea92408726a0157e](https://qiita.com/yuu_1st/items/aaa6ea92408726a0157e)
 
