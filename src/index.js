@@ -32,7 +32,7 @@ client.once("ready", async () => { //スラッシュコマンドを実装しよ�
 
     rest.put(Routes.applicationCommands('1068519674431672340'), { body: commands1 }) 
         .then(() => console.log('Successfully registered global application commands.'))
-        .catch(console.error); //指定したサーバーにコマンドを登録・更新
+        .catch(console.error); //コマンドを登録・更新（グローバル）
 });
 
 client.on("interactionCreate", async (interaction) => {
