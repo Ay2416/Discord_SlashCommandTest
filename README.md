@@ -17,7 +17,7 @@ Given that "npm" and "Node.js" installed.(Install Method→[※Japanese site Goo
 
 ・[https://qiita.com/narikakun/items/a897104e4bd55ca1e166](https://qiita.com/narikakun/items/a897104e4bd55ca1e166)
 
-### Enviroment
+### Operating Enviroment
 npm 8.19.2
 
 Node.js 18.14.0 ([https://nodejs.org/en/](https://nodejs.org/en/))
